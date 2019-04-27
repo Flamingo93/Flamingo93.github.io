@@ -1,7 +1,7 @@
 # Site settings
 title: DataHero Blog
 SEOTitle: DataHero Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/camilo-beach-portugal-picjumbo-com.jpeg
 email: changzc_330@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "Software, Data platform, Hadoop, Spark, Tech blog"
@@ -99,16 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
