@@ -1,7 +1,7 @@
 # Site settings
 title: DataHero Blog
 SEOTitle: DataHero Blog
-header-img: img/camilo-beach-portugal-picjumbo-com.jpeg
+header-img: img/post-bg-map - 副本.jpg
 email: changzc_330@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "Software, Data platform, Hadoop, Spark, Tech blog"
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 36097b034dda012939f3  #生成的clientID
+  clientSecret: 2c380b43177fd2805fbb5ad18cf1d0450d659e59    #生成的clientSecret
   repo: Flamingo93.github.io    #仓库名称
   owner: Flamingo93    #github用户名
   admin: Flamingo93
